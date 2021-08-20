@@ -102,7 +102,7 @@ expressDelivery.addEventListener("click", function () {
   deliveryCost("express", 20);
 });
 
-/* ====== Promo Button Actions ====== */
+/* ====== Promo Button Action ====== */
 promoBtn.addEventListener("click", function () {
   let inputValue = promoInput.value;
   if (inputValue == "stevekaku") {
