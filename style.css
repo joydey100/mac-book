@@ -1,0 +1,25 @@
+/* ===== Google Font =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+/* ===== Global CSS =====*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+  position: relative;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+}
+section {
+  padding: 100px 0;
+}
+
+/* ===== Header Start =====*/
+.navbar-brand i {
+  font-size: 30px;
+}
+/* ===== Header End =====*/
