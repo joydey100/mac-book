@@ -15,7 +15,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 section {
-  padding: 100px 0;
+  padding: 100px 0 0;
+}
+.gray {
+  color: #576574;
 }
 
 /* ===== Header Start =====*/
@@ -23,3 +26,9 @@ section {
   font-size: 30px;
 }
 /* ===== Header End =====*/
+
+/* ===== Main Start =====*/
+.imac-main-total {
+  margin: 60px 0 25px;
+}
+/* ===== Main End =====*/
