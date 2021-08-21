@@ -1,4 +1,4 @@
-// Initialize important Elemet or Select
+// Initialize important Elemets
 const memory8 = document.getElementById("memory-8gb");
 const memory16 = document.getElementById("memory-16gb");
 const storage256 = document.getElementById("storage-256gb");
